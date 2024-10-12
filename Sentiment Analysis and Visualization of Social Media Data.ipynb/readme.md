@@ -1,4 +1,3 @@
-```
 # Twitter Sentiment Analysis
 
 ## Overview
