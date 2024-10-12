@@ -142,5 +142,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 This project is licensed under the MIT License.
 ```
-
-You can copy and paste this directly into your `README.md` file on GitHub. Let me know if you need any more help!
