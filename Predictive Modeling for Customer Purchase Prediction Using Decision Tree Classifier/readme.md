@@ -1,7 +1,7 @@
 
 ---
 
-# Predictive Analytics for Amazon Sales Optimization
+# Predictive Modeling for Customer Purchase Prediction Using Decision Tree Classifier
 
 ## Table of Contents
 - [Project Overview](#project-overview)
